@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "MitraLokal — Mitra Digital UMKM Lokal",
+  "short_name": "MitraLokal",
+  "description": "Temukan kuliner lokal dan dukung digitalisasi UMKM sekitar kampus.",
+  "lang": "id-ID",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fbf8f1",
+  "theme_color": "#176b4d",
+  "categories": ["food", "shopping", "business"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
